@@ -1,0 +1,170 @@
+[
+    {
+        "date": "2024-03-14 10:00:00",
+        "name": "TEST_42220",
+        "gender": 0,
+        "age": 23,
+        "simulationData": [
+            {
+                "operation": 0,
+                "initialize": {
+                    "purchasePlan": [
+                        "ノンシュガーカフェラッテ",
+                        "オロナミンCドリンク",
+                        "豆乳飲料",
+                        "かつ丼",
+                        "醤油ラーメン",
+                        "カスタードプリン"
+                    ],
+                    "log": "ドリンク、丼物、ラーメン、プリンを買います。"
+                }
+            },
+            {
+                "operation": 1,
+                "positions": [
+                    {
+                        "id": 3,
+                        "action": 0,
+                        "log": "飲料/栄養ドリンク棚に移動した。"
+                    }
+                ]
+            },
+            {
+                "operation": 4,
+                "wait": [
+                    {
+                        "time": 10000,
+                        "action": 0,
+                        "log": "少々、考え中。"
+                    }
+                ]
+            },
+            {
+                "operation": 2,
+                "items": [
+                    {
+                        "id": 1166,
+                        "action": 0,
+                        "quality": 1,
+                        "log": "マウントレーニア カフェラッテ ノンシュガーを買い物カゴに入れた。"
+                    },
+                    {
+                        "id": 1022,
+                        "action": 0,
+                        "quality": 1,
+                        "log": "オロナミンCドリンクを買い物カゴに入れた。"
+                    },
+                    {
+                        "id": 2066,
+                        "action": 0,
+                        "quality": 1,
+                        "log": "豆乳飲料 麦芽コーヒーを買い物カゴに入れた。"
+                    }
+                ]
+            },
+            {
+                "operation": 1,
+                "positions": [
+                    {
+                        "id": 9,
+                        "action": 0,
+                        "log": "お弁当/常温飲料棚に移動した。"
+                    }
+                ]
+            },
+            {
+                "operation": 4,
+                "wait": [
+                    {
+                        "time": 30000,
+                        "action": 0,
+                        "log": "ちょっと、悩み中。"
+                    }
+                ]
+            },
+            {
+                "operation": 2,
+                "items": [
+                    {
+                        "id": 1817,
+                        "action": 0,
+                        "quality": 1,
+                        "log": "ハヌリ監修 チーズダッカルビ丼を買い物カゴに入れた。"
+                    }
+                ]
+            },
+            {
+                "operation": 1,
+                "positions": [
+                    {
+                        "id": 7,
+                        "action": 0,
+                        "log": "インスタント食品棚に移動した。"
+                    }
+                ]
+            },
+            {
+                "operation": 4,
+                "wait": [
+                    {
+                        "time": 30000,
+                        "action": 0,
+                        "log": "ちょっと、悩み中。"
+                    }
+                ]
+            },
+            {
+                "operation": 2,
+                "items": [
+                    {
+                        "id": 1407,
+                        "action": 0,
+                        "quality": 1,
+                        "log": "マルちゃん ごつ盛りワンタン醤油ラーメンを買い物カゴに入れた。"
+                    }
+                ]
+            },
+            {
+                "operation": 1,
+                "positions": [
+                    {
+                        "id": 4,
+                        "action": 0,
+                        "log": "飲料/デザート棚に移動した。"
+                    }
+                ]
+            },
+            {
+                "operation": 4,
+                "wait": [
+                    {
+                        "time": 60000,
+                        "action": 0,
+                        "log": "考えすぎ中…。"
+                    }
+                ]
+            },
+            {
+                "operation": 2,
+                "items": [
+                    {
+                        "id": 1709,
+                        "action": 0,
+                        "quality": 1,
+                        "log": "北海道バタープリンを買い物カゴに入れた。"
+                    }
+                ]
+            },
+            {
+                "operation": 3,
+                "purchase": [
+                    {
+                        "id": 31,
+                        "action": 0,
+                        "log": "レジでお会計。商品6点で 1140円。"
+                    }
+                ]
+            }
+        ]
+    }
+]

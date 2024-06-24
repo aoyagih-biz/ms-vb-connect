@@ -1,0 +1,51 @@
+[
+    {
+        "date": null,
+        "name": "FullAuto_touch_result__of__4m_45_1___20240510-130005_[2].tsv.txt",
+        "gender": null,
+        "age": null,
+        "simulationData": [
+            {
+                "operation": 0,
+                "initialize": {
+                    "purchasePlan": null,
+                    "log": null
+                }
+            },
+            {
+                "operation": 1,
+                "positions": [
+                    {
+                        "id": null,
+                        "action": null,
+                        "log": null
+                    }
+                ]
+            },
+            {
+                "operation": 2,
+                "items": null
+            },
+            {
+                "operation": 1,
+                "positions": [
+                    {
+                        "id": null,
+                        "action": null,
+                        "log": null
+                    }
+                ]
+            },
+            {
+                "operation": 4,
+                "wait": [
+                    {
+                        "time": 500,
+                        "action": null,
+                        "log": null
+                    }
+                ]
+            }
+        ]
+    }
+]
